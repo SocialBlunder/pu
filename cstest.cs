@@ -79,4 +79,4 @@ public class Problem45 {
                         Console.WriteLine("value failed. value = " + value);
 		}
 		
-	}}
+	}
