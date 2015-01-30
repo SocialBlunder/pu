@@ -1,7 +1,9 @@
 using System;
  
-public class HelloWorld {
+public class Problem45 {
     static public void Main () {
-	Console.WriteLine ("Hello Mono World");
+	int tri = 1, pent = 1, hex = 1;
+
+	Console.WriteLine (tri + pent + hex);
     }
 }
